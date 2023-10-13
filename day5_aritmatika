@@ -1,0 +1,26 @@
+public class day5 Aritmatika {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 5;
+        
+        // Operator penambahan
+        int tambah = a + b;
+        System.out.println("Hasil penambahan: " + tambah);
+        
+        // Operator pengurangan
+        int kurang = a - b;
+        System.out.println("Hasil pengurangan: " + kurang);
+        
+        // Operator perkalian
+        int kali = a * b;
+        System.out.println("Hasil perkalian: " + kali);
+        
+        // Operator pembagian
+        int bagi = a / b;
+        System.out.println("Hasil pembagian: " + bagi);
+        
+        // Operator modulus
+        int sisa = a % b;
+        System.out.println("Sisa pembagian: " + sisa);
+    }
+}
