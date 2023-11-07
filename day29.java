@@ -11,7 +11,7 @@ public class day29 {
         for (int i = 1; i <= angka; i++) {
         
             if(i % 3 == 0){
-                System.out.println(i+ "");
+                System.out.println(i);
             }
             
         } 
